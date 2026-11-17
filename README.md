@@ -1,0 +1,1 @@
+This code will show a sorting functionality when we select one option from the droping list and it use event (change) it will fire when any change happen on the options and we use event.value as argument
